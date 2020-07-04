@@ -17,3 +17,12 @@
     padding: 1px; 
     margin: 1px;
 }
+
+#mysql{
+    width: 0%;
+}
+/* Make the image fully responsive */
+.carousel-inner .img-fluid {
+    width: 100%;
+    height: 100%;
+  } 
