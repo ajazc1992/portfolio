@@ -50,6 +50,9 @@
             case 'gumby':
                 tope = 70;            
                break;
+            case 'GIT':
+                tope = 50;            
+               break;
             default:
                 break;
         }
